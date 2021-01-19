@@ -1,1 +1,37 @@
+h1 {
+  text-align: center;
+}
 
+.card-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  max-width: 30%;
+  box-shadow: 20px;
+  justify-content: center;
+  box-shadow: 0 4px 8px 0 rgba(46, 45, 45, 0.2)
+}
+
+.card-header {
+  border: 1px solid lightblue;
+}
+
+h2 {
+  text-align: center;
+}
+
+.availability {
+  background-color: grey;
+  color: yellow;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
