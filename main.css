@@ -53,3 +53,13 @@ p {
   font-family: 'Roboto', sans-serif;
   font-size: smaller;
 }
+
+.sold-out {
+ display: block;
+ position: relative;
+}
+
+.top-image {
+  display: block;
+  position: absolute;
+}
