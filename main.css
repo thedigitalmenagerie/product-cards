@@ -5,6 +5,7 @@ body {
 h1 {
   text-align: center;
   color: #FFC107;
+  font-family: 'Berkshire Swash', cursive;
 }
 
 .card-container {
@@ -28,6 +29,7 @@ h1 {
 
 h2 {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 .availability {
@@ -41,4 +43,13 @@ h2 {
 
 img {
   max-width: 100%;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: smaller;
 }
