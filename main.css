@@ -34,7 +34,7 @@ h2 {
 
 .availability {
   background-color: grey;
-  color: #FFC107; ;
+  color: #FFC107;
 }
 
 .bold {
@@ -47,6 +47,7 @@ img {
 
 h4 {
   font-family: 'Roboto', sans-serif;
+  font-size: small;
 }
 
 p {
